@@ -4,7 +4,7 @@ import "crypto/rand"
 
 const randomStringSource = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_+"
 
-// Tools is thetype used to instahtiate this module. Any variable of this type
+// Tools is the type used to instahtiate this module. Any variable of this type
 // will have access to all the methods of this module.
 type Tools struct{}
 
